@@ -48,3 +48,9 @@ Non-Vine reviews: 170
 <img width="761" alt="Screen Shot 2022-11-12 at 3 18 06 PM" src="https://user-images.githubusercontent.com/107590196/201492953-3c968571-51a5-4b39-baa1-432162ec1569.png">
 
 
+## Summary: 
+There are significantlly more reviews from customers that are not in the Vine program 37,840 vs 170. out of those 37k 54.5% of the reviews were 5 stars, this means that the customers did not receive any form of compensation for their review and they were pleased with their pet product. In contrast, 65 out of the 170 reviews in the program were 5 stars. This is about 38% of the reviewers who were compensated for their reviews rated the product 5 stars. 
+
+Since the there are 16% more 5 star review in the non Vine reviews we can conclude that there is not positivity bias for reviews in the Vine program. 
+
+Additionally we could analyze the dataset to show that these were verified purchases and not just reviews that were left. This could help prove that the people who actually purchased the product were the ones leaving the reviews.
